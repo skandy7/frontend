@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom'
 import './App.css'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import { AuthProvider, AuthProvider } from './context/AuthContext'
+import { AuthProvider } from './context/AuthContext'
 
 function App() {
 
