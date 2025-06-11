@@ -1,0 +1,162 @@
+[
+  {
+    "_id": 1,
+    "title": "Maruti Suzuki Swift",
+    "description": "Discover why the Maruti Suzuki Swift remains a top choice for urban driving with its sleek design, fuel efficiency, and superior performance.",
+    "category": "Hatchback",
+    "trending": true,
+    "coverImage": "car1.jpg",
+    "oldPrice": 29.99,
+    "newPrice": 19.99
+  },
+  {
+    "_id": 2,
+    "title": "Hyundai Creta",
+    "description": "Explore the Hyundai Creta, a perfect blend of style, comfort, and technology, making it one of the best-selling SUVs in India.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car2.jpg",
+    "oldPrice": 24.99,
+    "newPrice": 14.99
+  },
+  {
+    "_id": 3,
+    "title": "Tata Nexon",
+    "description": "Experience the Tata Nexon, India’s safest compact SUV, known for its bold design and exceptional safety features.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car3.jpg",
+    "oldPrice": 39.99,
+    "newPrice": 29.99
+  },
+  {
+    "_id": 4,
+    "title": "Maruti Suzuki Baleno",
+    "description": "Uncover the Maruti Suzuki Baleno, a premium hatchback that offers spacious interiors, cutting-edge technology, and excellent mileage.",
+    "category": "Hatchback",
+    "trending": false,
+    "coverImage": "car4.jpg",
+    "oldPrice": 49.99,
+    "newPrice": 39.99
+  },
+  {
+    "_id": 5,
+    "title": "Kia Seltos",
+    "description": "Step into the world of luxury with the Kia Seltos, an SUV that combines bold looks, advanced features, and superior driving dynamics.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car5.jpg",
+    "oldPrice": 19.99,
+    "newPrice": 9.99
+  },
+  {
+    "_id": 6,
+    "title": "Mahindra Scorpio-N",
+    "description": "Conquer every terrain with the Mahindra Scorpio-N, a powerful SUV built for adventure and designed for comfort.",
+    "category": "SUV",
+    "trending": false,
+    "coverImage": "car6.jpg",
+    "oldPrice": 44.99,
+    "newPrice": 34.99
+  },
+  {
+    "_id": 7,
+    "title": "Toyota Fortuner",
+    "description": "Dominate the roads with the Toyota Fortuner, the ultimate SUV known for its rugged design, powerful engine, and off-road capabilities.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car7.jpg",
+    "oldPrice": 59.99,
+    "newPrice": 49.99
+  },
+  {
+    "_id": 8,
+    "title": "Maruti Suzuki WagonR",
+    "description": "Discover the Maruti Suzuki WagonR, a reliable and spacious hatchback designed for modern family needs.",
+    "category": "Hatchback",
+    "trending": true,
+    "coverImage": "car8.jpg",
+    "oldPrice": 21.99,
+    "newPrice": 16.99
+  },
+  {
+    "_id": 9,
+    "title": "Honda City",
+    "description": "Experience the sophistication of the Honda City, a sedan that redefines luxury with its elegant design and advanced features.",
+    "category": "Sedan",
+    "trending": false,
+    "coverImage": "car9.jpg",
+    "oldPrice": 27.99,
+    "newPrice": 18.99
+  },
+  {
+    "_id": 10,
+    "title": "Hyundai Venue",
+    "description": "Explore the Hyundai Venue, a compact SUV that packs style, performance, and cutting-edge technology into a small package.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car10.jpg",
+    "oldPrice": 14.99,
+    "newPrice": 10.99
+  },
+  {
+    "_id": 11,
+    "title": "Tata Punch",
+    "description": "Meet the Tata Punch, a micro SUV designed for city adventures with a bold design and uncompromised safety.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car11.jpg",
+    "oldPrice": 32.99,
+    "newPrice": 25.99
+  },
+  {
+    "_id": 12,
+    "title": "MG Hector",
+    "description": "Experience the MG Hector, India’s first internet-connected SUV, offering luxurious interiors and advanced AI-powered features.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car12.jpg",
+    "oldPrice": 19.99,
+    "newPrice": 9.99
+  },
+  {
+    "_id": 13,
+    "title": "Mahindra Thar",
+    "description": "Embrace the spirit of adventure with the Mahindra Thar, an iconic off-roader built for thrill-seekers and outdoor enthusiasts.",
+    "category": "SUV",
+    "trending": true,
+    "coverImage": "car13.jpg",
+    "oldPrice": 26.99,
+    "newPrice": 21.99
+  },
+  {
+    "_id": 14,
+    "title": "Renault Kwid",
+    "description": "Discover the Renault Kwid, an entry-level hatchback that offers style, space, and modern features at an affordable price.",
+    "category": "Hatchback",
+    "trending": false,
+    "coverImage": "car14.jpg",
+    "oldPrice": 34.99,
+    "newPrice": 24.99
+  },
+  {
+    "_id": 15,
+    "title": "Toyota Innova Crysta",
+    "description": "Experience unparalleled comfort and space with the Toyota Innova Crysta, the ultimate family MPV.",
+    "category": "MUV",
+    "trending": false,
+    "coverImage": "car15.jpg",
+    "oldPrice": 22.99,
+    "newPrice": 12.99
+  },
+  {
+    "_id": 16,
+    "title": "Hyundai i20",
+    "description": "Unleash your style with the Hyundai i20, a premium hatchback known for its sporty design and advanced features.",
+    "category": "Hatchback",
+    "trending": false,
+    "coverImage": "car16.jpg",
+    "oldPrice": 24.99,
+    "newPrice": 19.99
+  }
+]
