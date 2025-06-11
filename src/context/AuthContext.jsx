@@ -11,7 +11,7 @@ export const useAuth = () => {
 const googleProvider = new GoogleAuthProvider();
 
 // authProvider
-export const AuthProvide = ({children}) => {
+export const authProvider = ({children}) => {
     const [currentUser, setCurrentUser] = useState(null);
     const [loading, setLoading] = useState(true);
 
